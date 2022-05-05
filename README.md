@@ -20,6 +20,7 @@ Those are mine freelance works for Dekatech company included
 - AC Motor Driver (Delta-EL Series) Controlling from MCU opto-isolated 0-10V PWM 
 - Reading 2 encoders with interrupts progress.
 - Logic decoder using for selecting output with 4 Ch input 10 Ch output. 
+- Included NE555 async timer.
 - Using Nextion TFT 7" Panel
 
 
